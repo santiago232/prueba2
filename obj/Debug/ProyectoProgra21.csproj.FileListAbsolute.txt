@@ -1,0 +1,4 @@
+C:\Users\Pineda's\source\repos\ProyectoProgra21\ProyectoProgra21\obj\Debug\ProyectoProgra21.csproj.AssemblyReference.cache
+C:\Users\Pineda's\source\repos\ProyectoProgra21\ProyectoProgra21\obj\Debug\ProyectoProgra21.Properties.Resources.resources
+C:\Users\Pineda's\source\repos\ProyectoProgra21\ProyectoProgra21\obj\Debug\ProyectoProgra21.csproj.GenerateResource.cache
+C:\Users\Pineda's\source\repos\ProyectoProgra21\ProyectoProgra21\obj\Debug\ProyectoProgra21.csproj.CoreCompileInputs.cache
